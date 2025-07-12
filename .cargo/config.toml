@@ -1,2 +1,0 @@
-[build]
-rustflags = ["--remap-path-prefix", ".=."] # You can remove this if you don't care about your build paths being in the final binary.

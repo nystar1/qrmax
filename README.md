@@ -17,7 +17,7 @@ This project requires **Rust 1.82.0** or later.
 This project is built using Rust.
 
 ```sh
-cargo build --release # File will be in the /target/release folder
+cargo build --release # Binary will be in the target/release folder
 ```
 
 ## Run Instructions
